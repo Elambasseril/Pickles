@@ -11,3 +11,4 @@ It should be considered quite experimental at present.  Please see https://githu
 
 I have built custom .NET Core versions of some dependent projects.  These are published at  https://www.myget.org/F/doubleloop/api/v3/index.json.  That myget source is included via the local NuGet.config in this repository.
 
+Exprerimenting with build
